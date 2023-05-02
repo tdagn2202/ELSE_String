@@ -32,3 +32,6 @@ if (a[len-1]=='\n')
     }
     else printf("NO");
 }
+
+
+// tdang2202 - deptrai
